@@ -1,1 +1,1 @@
-Update
+An advanced regression Kaggle problem where there were many features and not that many samples. After a few attempts at dimensionality reduction (including PCA) I ultimately found Gradient Boosting using a grid search was the most effective method.
