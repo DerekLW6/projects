@@ -1,1 +1,1 @@
-Images
+Images for training and testing
