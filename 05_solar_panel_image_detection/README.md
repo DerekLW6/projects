@@ -1,1 +1,1 @@
-Image detection of solar panels.
+# Kaggle-solar-panel-detection
