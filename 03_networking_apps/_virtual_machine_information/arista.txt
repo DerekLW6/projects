@@ -1,0 +1,7 @@
+setting password arista
+username: admin
+enable
+config t
+username admin secret password
+
+show ip int brief
