@@ -1,0 +1,37 @@
+Airline: Operating airline
+
+Flight_Number: Flight number
+
+Plane_ID: Plane identifier
+
+FlightDate: Date of flight
+
+Origin_Airport: Origin airport code
+
+Destination_Airport: Destination airport code
+
+Flight_Distance: Distance (miles) between origin and destination
+
+Scheduled_Departure_Time: Scheduled departure time
+ (local time: hhmm)
+
+Actual_Departure_Time: Actual departure time
+ (local time: hhmm)
+
+Departure_Delay_Minutes: Difference in minutes between scheduled and actual departure time. Early departures set to 0.
+
+Departure_Taxi: Taxi Out Time, in Minutes
+
+Departure_WheelsOff: Wheels Off Time (local time: hhmm)
+
+Scheduled_Arrival_Time: Scheduled arrival time (local time: hhmm)
+
+Actual_Arrival_Time: Actual arrival time (local time: hhmm)
+
+Arrival_Delay_Minutes: Difference in minutes between scheduled and actual arrival time. Early arrivals set to 0.
+
+Arrival_Taxi: Taxi In Time, in Minutes
+
+Arrival_WheelsOn: Wheels On Time (local time: hhmm)
+
+Delay_Reason: Major reason for delay
